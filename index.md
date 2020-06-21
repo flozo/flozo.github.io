@@ -13,3 +13,7 @@ Tyrion Lannister ist der Sohn von Tywin Lannister und Bruder von Cersei und Jaim
 * schlechtes Verhältnis zu seinem Vater und Cersei
 * gutes Verhältnis zu Jamie
 
+## Zitat
+
+> Alles wird besser mit etwas Wein im Bauch.
+
